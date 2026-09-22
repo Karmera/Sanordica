@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sanoridca.com/sitemap.xml
+Sitemap: https://sanordica.com/sitemap.xml
